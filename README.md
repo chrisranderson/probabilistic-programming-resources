@@ -14,6 +14,8 @@ Things I've found useful for learning probabilistic programming.
 
 [WebPPL](http://webppl.org/): PPL embedded in JavaScript.
 
+[PyMC3](https://github.com/pymc-devs/pymc3): a Python module for Bayesian statistical modeling.
+
 ### Courses
 [Probabilistic graphical models](https://www.coursera.org/course/pgm): a course by Daphne Koller on PGMs, with tons of videos, quizzes, etc.
 
